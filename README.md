@@ -1,49 +1,63 @@
 # Emeraude Kiangana
 
-**Builder — Open Technologies 🇨🇩**
+**Software Builder — AI Systems · Agentic Infrastructure · Deterministic Software 🇨🇩**
 
-Building practical, testable technology systems from the Democratic Republic of the Congo.
+Building practical, testable and evidence-driven technology systems from the Democratic Republic of the Congo.
 
 `Learn → Build → Test → Prove → Share → Iterate`
 
 [**Explore the Open Technologies Portfolio →**](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
 
-## Selected work
-
-### NovaForge
-Reproducible media-production control plane for job orchestration, HTTP workers and FFmpeg-backed MP4 pipelines. Private source; public evidence is surfaced through the portfolio.
-
-[View public evidence →](https://emeraude-kiangana.github.io/open-technologies-portfolio/projects/novaforge/)
+## Featured Engineering Work
 
 ### C.A.O — Chief Agent Officer
-Professional infrastructure prototype for verified AI talent, deterministic team assembly and authorized mission-execution sandboxing. Private source; bounded status is surfaced through the portfolio.
 
-[View portfolio index →](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
+Professional infrastructure prototype for verified AI talent, deterministic matching, agent-team assembly, bounded mission execution and marketplace engagement.
 
-### eCDF
-TypeScript research prototype for deterministic, explicitly authorized digital-value transfer lifecycles.
+**Verified direction:** Professional Contracts → Verified Registry → Matching → Talent Graph → Team Assembly → Mission Execution → Marketplace.
 
-[Repository →](https://github.com/Emeraude-Kiangana/ecdf)
+**Current boundary:** payment processing and settlement are not implemented.
 
-### CPCN — Congo Programmable Capital Network
-Research prototypes for evidence and permission workflows around SME financing in the Democratic Republic of the Congo. Canonical source remains private; bounded project status is surfaced through the portfolio.
+[Public evidence index →](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
 
-[View portfolio index →](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
+---
 
 ### KIANGANA 2.0 / KIF
-Personal human–AI system with tested governance foundations and a verified historical KIF execution checkpoint.
 
-[Repository →](https://github.com/Emeraude-Kiangana/kiangana-2.0)
+Personal human–AI operating-system research with governed execution foundations and a verified historical KIF multi-provider checkpoint.
 
-### RegenTwin
-Git-native provenance prototype for deterministic state-chain verification of regenerative asset records.
+**KIF V0.2 CP-01 evidence:** DeepSeek + Groq · controlled fallback · 41 unit tests · 3 integration tests · frozen reproducible checkpoint.
 
-[Repository →](https://github.com/Emeraude-Kiangana/regen-twin)
+[Repository →](https://github.com/Emeraude-Kiangana/kiangana-2.0) · [Project status →](https://github.com/Emeraude-Kiangana/kiangana-2.0/blob/main/docs/PROJECT-STATUS.md) · [KIF proof run →](https://github.com/Emeraude-Kiangana/kiangana-2.0/actions/runs/35286354669)
 
-### RWA Red-Team Lab
-Adversarial verification lab for deterministic integrity checks against RWA evidence bundles.
+---
 
-[Repository →](https://github.com/Emeraude-Kiangana/rwa-red-team-lab)
+### eCDF
+
+TypeScript research prototype for deterministic, explicitly authorized digital-value transfer lifecycles.
+
+**Verified scope:** domain state machine · role-constrained transitions · deterministic snapshots · bigint amounts · 27 automated tests.
+
+[Repository →](https://github.com/Emeraude-Kiangana/ecdf) · [Project status →](https://github.com/Emeraude-Kiangana/ecdf/blob/main/docs/PROJECT-STATUS.md) · [CI →](https://github.com/Emeraude-Kiangana/ecdf/actions)
+
+---
+
+### Open Technologies Portfolio
+
+Public evidence hub connecting project claims to repositories, tests, CI runs, commits and bounded maturity states.
+
+**Purpose:** make technical work inspectable rather than simply described.
+
+[Repository →](https://github.com/Emeraude-Kiangana/open-technologies-portfolio) · [Live portfolio →](https://emeraude-kiangana.github.io/open-technologies-portfolio/) · [GitHub Actions →](https://github.com/Emeraude-Kiangana/open-technologies-portfolio/actions)
+
+## Additional Research & Prototypes
+
+- **CPCN — Congo Programmable Capital Network** — evidence and permission workflows around SME financing research in the DRC.
+- **NovaForge** — reproducible media-production control plane with FFmpeg-backed MP4 pipelines.
+- **RegenTwin** — Git-native provenance prototype for regenerative asset state chains.
+- **RWA Red-Team Lab** — adversarial integrity verification for sample RWA evidence bundles.
+
+[**Explore all projects, evidence and limitations →**](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
 
 ## Verified Education 🇨🇩
 
@@ -51,19 +65,18 @@ My Congolese State Diploma can be independently verified through **Diplome.cd**.
 
 [**Verify credential →**](https://diplome.cd/verify/XaGyaW)
 
-Democratic Republic of the Congo 🇨🇩
+## Current Stack
 
-## Current tools
+`Python` · `TypeScript` · `GitHub Actions` · `Next.js` · `FFmpeg` · `AI APIs`
 
-Python · TypeScript · GitHub Actions · Next.js · FFmpeg · AI APIs
+## Engineering Principle
 
-## Working principle
+**Real problem → useful tool → test → evidence → iteration**
 
-`Real problem → useful tool → test → evidence → iteration`
-
-The portfolio is the public evidence index. Project repositories remain the primary sources of truth.
+Project repositories remain the technical sources of truth. The portfolio acts as the public evidence index.
 
 ---
 
-© EMERAUDE KIANGANA  
-Open Technologies — Democratic Republic of the Congo 🇨🇩
+**Emeraude Kiangana**  
+Founder / Builder — Open Technologies  
+Democratic Republic of the Congo 🇨🇩
