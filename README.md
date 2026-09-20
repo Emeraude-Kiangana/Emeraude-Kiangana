@@ -45,6 +45,14 @@ Adversarial verification lab for deterministic integrity checks against RWA evid
 
 [Repository →](https://github.com/Emeraude-Kiangana/rwa-red-team-lab)
 
+## Verified Education 🇨🇩
+
+My Congolese State Diploma can be independently verified through **Diplome.cd**.
+
+[**Verify credential →**](https://diplome.cd/verify/XaGyaW)
+
+Democratic Republic of the Congo 🇨🇩
+
 ## Current tools
 
 Python · TypeScript · GitHub Actions · Next.js · FFmpeg · AI APIs
