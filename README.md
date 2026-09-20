@@ -15,6 +15,11 @@ Reproducible media-production control plane for job orchestration, HTTP workers 
 
 [View public evidence →](https://emeraude-kiangana.github.io/open-technologies-portfolio/projects/novaforge/)
 
+### C.A.O — Chief Agent Officer
+Professional infrastructure prototype for verified AI talent, deterministic team assembly and authorized mission-execution sandboxing. Private source; bounded status is surfaced through the portfolio.
+
+[View portfolio index →](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
+
 ### eCDF
 TypeScript research prototype for deterministic, explicitly authorized digital-value transfer lifecycles.
 
