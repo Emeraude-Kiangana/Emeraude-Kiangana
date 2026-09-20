@@ -14,11 +14,11 @@ Building practical, testable and evidence-driven technology systems from the Dem
 
 Professional infrastructure prototype for verified AI talent, deterministic matching, agent-team assembly, bounded mission execution and marketplace engagement.
 
-**Verified direction:** Professional Contracts → Verified Registry → Matching → Talent Graph → Team Assembly → Mission Execution → Marketplace.
+**Verified checkpoint:** CP-08 Marketplace · 113 / 113 tests PASS · proof run 35480285634.
 
 **Current boundary:** payment processing and settlement are not implemented.
 
-[Public evidence index →](https://emeraude-kiangana.github.io/open-technologies-portfolio/)
+[Public CP-08 evidence →](https://emeraude-kiangana.github.io/open-technologies-portfolio/projects/cao/)
 
 ---
 
@@ -36,9 +36,9 @@ Personal human–AI operating-system research with governed execution foundation
 
 TypeScript research prototype for deterministic, explicitly authorized digital-value transfer lifecycles.
 
-**Verified scope:** domain state machine · role-constrained transitions · deterministic snapshots · bigint amounts · 27 automated tests.
+**Verified scope:** domain state machine · role-constrained transitions · deterministic snapshots · bigint amounts · 29 / 29 tests PASS · CI-backed local lifecycle demo.
 
-[Repository →](https://github.com/Emeraude-Kiangana/ecdf) · [Project status →](https://github.com/Emeraude-Kiangana/ecdf/blob/main/docs/PROJECT-STATUS.md) · [CI →](https://github.com/Emeraude-Kiangana/ecdf/actions)
+[Repository →](https://github.com/Emeraude-Kiangana/ecdf) · [Public evidence →](https://emeraude-kiangana.github.io/open-technologies-portfolio/projects/ecdf/) · [CI + demo proof →](https://github.com/Emeraude-Kiangana/ecdf/actions/runs/35508188094)
 
 ---
 
